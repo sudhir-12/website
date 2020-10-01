@@ -1,4 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/IIIF/website.png?label=ready&title=Ready)](https://waffle.io/IIIF/website)
+An amazing project   
+
+ [![Stories in Ready](https://badge.waffle.io/IIIF/website.png?label=ready&title=Ready)](https://waffle.io/IIIF/website)
 [![Build Status](https://travis-ci.org/IIIF/website.svg?branch=master)](https://travis-ci.org/IIIF/website)
 
 # Specifications
